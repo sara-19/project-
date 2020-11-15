@@ -1,0 +1,56 @@
+
+*{
+margin:0;
+padding:0;
+}
+
+
+body {
+background : url("https://i.pinimg.com/originals/df/e3/90/dfe3908abcba565d8567aaaa5c5bf093.jpg");
+background-repeat :no-repeat;
+background-size:100%;
+background: cover ;
+
+}
+ .active  {
+float:right;
+margin-top:20px;
+ }
+ .active li {
+list-style: none ;
+display: inline-block;
+margin-right:10px;
+ }
+ .active li  a {
+text-decoration: none ;
+font-size:35px;
+padding:50px;
+text-transform:uppercase;
+color:white;
+ }
+  
+  .r {
+ margin :0;
+  }
+  .r h1 {
+ text-align : right;
+ font-family: always;
+        margin :50px;
+ font-size :150px;
+ color:white;
+padding :95px;
+  }
+  
+  
+.o  {
+width: 320px;
+height: 390px;
+top :50%;
+left:50%;
+position: absolute;
+padding: 30px 30px;
+background: #FAEBD7;
+transform:translate(-50%,-50%);
+box-size: border-box: 
+color:#fff;
+}
